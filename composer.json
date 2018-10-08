@@ -1,6 +1,6 @@
 {
     "name": "reactor/users",
-    "description": "User and permission system scaffolds for the Nuclear CMS.",
+    "description": "User and permission system scaffolds for the Reactor CMS.",
     "license": "MIT",
     "keywords": [
         "kenarkose",
